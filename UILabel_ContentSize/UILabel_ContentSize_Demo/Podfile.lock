@@ -1,0 +1,10 @@
+PODS:
+  - UILabel+ContentSize (1.0.3)
+
+DEPENDENCIES:
+  - UILabel+ContentSize
+
+SPEC CHECKSUMS:
+  UILabel+ContentSize: ca71fe5d87afd752e53a34466e52598d65db4705
+
+COCOAPODS: 0.39.0
